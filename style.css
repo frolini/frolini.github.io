@@ -1,0 +1,14 @@
+.body{
+    font-family: "Open Sans", sans-serif;
+    /* и другие парамерты шрифта*/
+}
+
+
+.page-header {}
+.page-header__nav-link{
+    margin: 0 25px;
+    color:   #000000;
+    font-weight: 600;
+    font-size: 18px;
+    
+}
